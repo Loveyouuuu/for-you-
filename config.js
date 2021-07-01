@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Câụ thích điểm gì ở tớ <3',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Tại vì cậu cute vlllll <33333333',
-    mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều, 😘😘',
+    mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều,moazz 😘😘',
     messDesc: 'Tối nay 7h tớ qua đón nhé bae.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com'//https://m.me/yenle014
