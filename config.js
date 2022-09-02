@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Hellu em!',
-    introDesc: `Chị có điều muốn nói với em
-    điều mà từ lâu chị giấu dím,một
-    chuyện rất quan trọng
-    em mún biết hong`,
+    introTitle: 'Em yêu à!',
+    introDesc: `Chị biết em đang dỗi lắm
+    nhưng chị có vài lời muốn nói với em
+    mong em có thể tha thứ cho chị
+    em muốn nghe hong`,
     btnIntro: 'ok nèee',
-    title: 'Chị Thích em,làm người yêu Chị nhéeee 😙',
+    title: 'Chị sai rồi,chị xin lỗi mà.em đừng dỗi nữa nhaaaa 😙',
     desc: 'Thoát ra là đồng ý rùi nhaa ',
-    btnYes: 'em đồng ý,emm cũng thích chị <33',
+    btnYes: 'em không dỗi nữa em yêu chị ❤️',
     btnNo: 'Không nhaaa :3',
-    question:'em thích điểm gì ở Chị <3',
-    btnReply: 'Gửi cho chị <3',
-    reply: 'Tại vì chị cute vlllll <33333333',
+    question:'chị tuyệt quá nên em k dỗi đc đúng k? ❤️',
+    btnReply: 'Gửi cho chị ❤️',
+    reply: 'Đúng rồi chị tuyệt vời nhất <33333333',
     mess: 'Chị biết mà 🥰. Yêu Em nhiều nhiều,moazz 😘😘',
-    messDesc: 'Từ giờ em là của chị rồi nhé baee.',
+    messDesc: 'Gửi ngàn nụ hôn đến em nhé baee.',
     btnAccept: 'Dạaaaaa <3',
     messLink: 'http://fb.com'//https://m.me/yenle014
 }
