@@ -1,4 +1,5 @@
-    introTitle: 'Chào chị!',
+const CONFIG = {
+    introTitle: 'Chào chị!', 
     introDesc: `Em có chuyện này
     rất quan trọng
     muốn nói với chị
