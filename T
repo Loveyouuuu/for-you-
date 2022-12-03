@@ -14,7 +14,7 @@
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Gửi ngàn nụ hôn đến chị ❤️.',
     btnAccept: 'Yêu em <3',
-    messLink: 'http://fb.com' https://www.facebook.com/yenle014
+    messLink: 'http://fb.com'https://www.facebook.com/yenle014
 }
 ```
 
