@@ -1,0 +1,23 @@
+const CONFIG = {
+    introTitle: 'Chào chị!', 
+    introDesc: `Em có chuyện này
+    rất quan trọng
+    muốn nói với chị
+    chị có muốn nghe hong`,
+    btnIntro: 'ok nè',
+    title: 'Quay lại với em nhé? 😙',
+    desc: 'Thoát ra là đồng ý rồi nha ',
+    btnYes: 'Chị đồng ý ❤️',
+    btnNo: 'Không!',
+    question:'Lý do gì khiến chị đồng ý quay lại vậy?❤️',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Vì em tuyệt vời nhất <333',
+    mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
+    messDesc: 'Gửi ngàn nụ hôn đến chị ❤️.',
+    btnAccept: 'Yêu em <3',
+    messLink: 'http://fb.com'https://m.me/yenle014
+}
+```
+
+
+   
